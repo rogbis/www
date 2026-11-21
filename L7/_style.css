@@ -1,0 +1,43 @@
+body {
+	background-color: #cfe8ff;
+}
+
+#ambulance {
+	/* TODO: dodaj rozmiar, ramkę, zaokrąglenia, stylowanie napisu i gradient w tle */
+}
+
+.wheel {
+	/* TODO: zrób z kwadratu koło z grubą ramką i uruchom animację spin */
+}
+
+#wheel-front {
+	/* TODO: ustaw pozycję przedniego koła */
+}
+
+#wheel-back {
+	/* TODO: ustaw pozycję tylnego koła */
+}
+
+@keyframes spin {
+	/* TODO: opisz pełny obrót od 0 do 360 stopni */
+}
+
+#siren {
+	/* TODO: nadaj syrenie rozmiar, czarne tło i zaokrąglony górny brzeg */
+}
+
+#siren:hover {
+	/* TODO: uruchom animację siren po najechaniu myszką */
+}
+
+@keyframes siren {
+	/* TODO: opisz zmianę koloru tła od czarnego, przez niebieski, do czerwonego */
+}
+
+#emergency {
+	/* TODO: ustaw czerwoną tabliczkę z niebieską ramką i włącz płynne przejście */
+}
+
+#emergency:hover {
+	/* TODO: powiększ tabliczkę po najechaniu myszką */
+}
